@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bonettimrc
 - 👀 I’m interested in nodejs, java, bash
 - 🌱 I’m currently ricing my dwm
-- 💞️ I’m looking to collaborate on anything, but I'm not a native english speaker and currently I'm jobless
+- 💞️ I’m looking to collaborate on anything, but I'm not a native english speaker and currently I'm busy studing for uni
 - 📫 How to reach me: bonetti.mrc@gmail.com
 
 <!---
