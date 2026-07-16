@@ -1,0 +1,28 @@
+              ────:───────────              __  __                   ____  ___               _   _   _ 
+          //───.:──────────::─\\\\         |  \/  |__ _ _ _ __ ___  / __ \| _ ) ___ _ _  ___| |_| |_(_)
+        //      ─/─────\\─\─\...\:\\\      | |\/| / _` | '_/ _/ _ \/ / _` | _ \/ _ \ ' \/ -_)  _|  _| |
+       /              //─\\.  ─.  ..\\     |_|  |_\__,_|_| \__\___/\ \__,_|___/\___/_||_\___|\__|\__|_|
+     //              //             .|.                             \____/                             
+     |            ..─────────────\\  .\\                                                               
+     \\\     ...::cccoPPOOOOOO?????\\.\\\           ───────────────────────────────────────────────────
+      ||   .::::cccoooPPOOOOOOOOO???@\\.c|          OS:                          EndevourOS, Android 16
+          .:cc::coooPPPPOOOOOOO??OOO??\\c|          DE:                      Hyprland (Caelestia shell)
+         ..:ccccooooPPP───P────????OPOPoo|          Host:                                         Italy
+      | ..::/─────────cccc/────────\\PPoo|          Uptime:                                    22 years
+      |..:/.....   ...:::::...  ....\\PP||          IDE:                         VScodium (with Neovim)
+      |.......───   .../o\:.. /───\\..\P||                                                             
+      |...../   ─    /:oOO\..  ─ ──────|||          Languages:                    English (C1), Italian
+     /..::──────────/:cP?\Po\─────────o|Oc─:        Programming Languages:          C, Java, Javascript
+    || .:::cco─ccccc:cco──O\PooPPPOOOOPP|c\|        Markup Languages:             HTML, Markdown, LaTeX
+    |....::cccocccc:/::::c─\Pc:cccoooPPo|:\o|                                                          
+    ||. ...::::::::......//.:c:..::::ccc|/PP        Contacts ──────────────────────────────────────────
+    |/.|........::::─────//───\:....:::c|─\P        Email:                        bonetti.mrc@gmail.com
+     \─/ .......──────......─────..::.:c.──.        LinkedIn:                                bonettimrc
+        |.....:...─...──────::::::::..:|            Discord:                                bonetti.mrc
+        /...................:::::::...:| \\ ─       Instagram:                              bonetti.mrc
+     ///   .........───────c──cc:::.../      \      Signal:                              bonettimrc.271
+   //       ........::::c:cccccc::... \\    ..|                                                        
+ //              ......::..:......      . / ...|    Education ─────────────────────────────────────────
+|                   ........     //|      .....|    Degree: B.Sc. SE (Candidate), University of Ferrara
+|                                .:|           |    Diploma:          CS, IIS N.Copernico-A.Carpeggiani
+                                ..:|      .    |                                                       
