@@ -1,1 +1,1 @@
-![System Info](./github.svg)
+![System Info](./README.svg)
