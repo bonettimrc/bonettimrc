@@ -8,16 +8,14 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #ffa657;}
+.key {fill: #78bffe;}
 .value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
 <rect width="100%" height="100%" fill="#151b23" rx="10"/>
 <text x="20" y="55" fill="#c9d1d9" class="ascii">
-    <tspan x="20" y="55"     >              ────:───────────</tspan>
+    <tspan x="20" y="55">              ────:───────────</tspan>
     <tspan x="20" y="77">          //───.:──────────::─\\\\</tspan>
     <tspan x="20" y="99">        //      ─/─────\\─\─\...\:\\\</tspan>
     <tspan x="20" y="121">       /              //─\\.  ─.  ..\\</tspan>
@@ -54,25 +52,25 @@ text, tspan {white-space: pre;}
 <tspan x="40%" y="165">                         \____/                             </tspan>
 <tspan x="40%" y="187">                                                            </tspan>
 <tspan x="40%" y="209">         ───────────────────────────────────────────────────</tspan>
-<tspan x="40%" y="231">         OS:                          EndevourOS, Android 16</tspan>
-<tspan x="40%" y="253">         DE:                      Hyprland (Caelestia shell)</tspan>
-<tspan x="40%" y="275">         Host:                                         Italy</tspan>
-<tspan x="40%" y="297">         Uptime:                                    22 years</tspan>
-<tspan x="40%" y="319">         IDE:                         VScodium (with Neovim)</tspan>
+<tspan x="40%" y="231">         <tspan class="key">OS</tspan>:                          <tspan class="value">EndevourOS, Android 16</tspan></tspan>
+<tspan x="40%" y="253">         <tspan class="key">DE</tspan>:                      <tspan class="value">Hyprland (Caelestia shell)</tspan></tspan>
+<tspan x="40%" y="275">         <tspan class="key">Host</tspan>:                                         <tspan class="value">Italy</tspan></tspan>
+<tspan x="40%" y="297">         <tspan class="key">Uptime</tspan>:                                    <tspan class="value">22 years</tspan></tspan>
+<tspan x="40%" y="319">         <tspan class="key">IDE</tspan>:                         <tspan class="value">VScodium (with Neovim)</tspan></tspan>
 <tspan x="40%" y="341">                                                            </tspan>
-<tspan x="40%" y="363">         Languages:                    English (C1), Italian</tspan>
-<tspan x="40%" y="385">         Programming Languages:          C, Java, Javascript</tspan>
-<tspan x="40%" y="407">         Markup Languages:             HTML, Markdown, LaTeX</tspan>
+<tspan x="40%" y="363">         <tspan class="key">Languages</tspan>:                    <tspan class="value">English (C1), Italian</tspan></tspan>
+<tspan x="40%" y="385">         <tspan class="key">Programming Languages</tspan>:          <tspan class="value">C, Java, Javascript</tspan></tspan>
+<tspan x="40%" y="407">         <tspan class="key">Markup Languages</tspan>:             <tspan class="value">HTML, Markdown, LaTeX</tspan></tspan>
 <tspan x="40%" y="429">                                                            </tspan>
 <tspan x="40%" y="451">         Contacts ──────────────────────────────────────────</tspan>
-<tspan x="40%" y="473">         Email:                        bonetti.mrc@gmail.com</tspan>
-<tspan x="40%" y="495">         LinkedIn:                                bonettimrc</tspan>
-<tspan x="40%" y="517">         Discord:                                bonetti.mrc</tspan>
-<tspan x="40%" y="539">         Instagram:                              bonetti.mrc</tspan>
-<tspan x="40%" y="561">         Signal:                              bonettimrc.271</tspan>
+<tspan x="40%" y="473">         <tspan class="key">Email</tspan>:                        <tspan class="value">bonetti.mrc@gmail.com</tspan></tspan>
+<tspan x="40%" y="495">         <tspan class="key">LinkedIn</tspan>:                                <tspan class="value">bonettimrc</tspan></tspan>
+<tspan x="40%" y="517">         <tspan class="key">Discord</tspan>:                                <tspan class="value">bonetti.mrc</tspan></tspan>
+<tspan x="40%" y="539">         <tspan class="key">Instagram</tspan>:                              <tspan class="value">bonetti.mrc</tspan></tspan>
+<tspan x="40%" y="561">         <tspan class="key">Signal</tspan>:                              <tspan class="value">bonettimrc.271</tspan></tspan>
 <tspan x="40%" y="583">                                                            </tspan>
 <tspan x="40%" y="605">         Education ─────────────────────────────────────────</tspan>
-<tspan x="40%" y="627">         Degree: B.Sc. SE (Candidate), University of Ferrara</tspan>
-<tspan x="40%" y="649">         Diploma:          CS, IIS N.Copernico-A.Carpeggiani</tspan>
+<tspan x="40%" y="627">         <tspan class="key">Degree</tspan>: <tspan class="value">B.Sc. SE (Candidate), University of Ferrara</tspan></tspan>
+<tspan x="40%" y="649">         <tspan class="key">Diploma</tspan>:          <tspan class="value">CS, IIS N.Copernico-A.Carpeggiani</tspan></tspan>
 </text>
 </svg>
