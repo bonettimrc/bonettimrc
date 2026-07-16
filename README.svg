@@ -18,61 +18,61 @@ text, tspan {white-space: pre;}
 <rect width="100%" height="100%" fill="#151b23" rx="10"/>
 <text x="20" y="55" fill="#c9d1d9" class="ascii">
     <tspan x="20" y="55"     >              ────:───────────</tspan>
-    <tspan x="20" dy="1.37em">          //───.:──────────::─\\\\</tspan>
-    <tspan x="20" dy="1.37em">        //      ─/─────\\─\─\...\:\\\</tspan>
-    <tspan x="20" dy="1.37em">       /              //─\\.  ─.  ..\\</tspan>
-    <tspan x="20" dy="1.37em">     //              //             .|.</tspan>
-    <tspan x="20" dy="1.37em">     |            ..─────────────\\  .\\</tspan>
-    <tspan x="20" dy="1.37em">     \\\     ...::cccoPPOOOOOO?????\\.\\\</tspan>
-    <tspan x="20" dy="1.37em">      ||   .::::cccoooPPOOOOOOOOO???@\\.c|</tspan>
-    <tspan x="20" dy="1.37em">          .:cc::coooPPPPOOOOOOO??OOO??\\c|</tspan>
-    <tspan x="20" dy="1.37em">         ..:ccccooooPPP───P────????OPOPoo|</tspan>
-    <tspan x="20" dy="1.37em">      | ..::/─────────cccc/────────\\PPoo|</tspan>
-    <tspan x="20" dy="1.37em">      |..:/.....   ...:::::...  ....\\PP||</tspan>
-    <tspan x="20" dy="1.37em">      |.......───   .../o\:.. /───\\..\P||</tspan>
-    <tspan x="20" dy="1.37em">      |...../   ─    /:oOO\..  ─ ──────|||</tspan>
-    <tspan x="20" dy="1.37em">     /..::──────────/:cP?\Po\─────────o|Oc─:</tspan>
-    <tspan x="20" dy="1.37em">    || .:::cco─ccccc:cco──O\PooPPPOOOOPP|c\|</tspan>
-    <tspan x="20" dy="1.37em">    |....::cccocccc:/::::c─\Pc:cccoooPPo|:\o|</tspan>
-    <tspan x="20" dy="1.37em">    ||. ...::::::::......//.:c:..::::ccc|/PP</tspan>
-    <tspan x="20" dy="1.37em">    |/.|........::::─────//───\:....:::c|─\P</tspan>
-    <tspan x="20" dy="1.37em">     \─/ .......──────......─────..::.:c.──.</tspan>
-    <tspan x="20" dy="1.37em">        |.....:...─...──────::::::::..:|</tspan>
-    <tspan x="20" dy="1.37em">        /...................:::::::...:| \\ ─</tspan>
-    <tspan x="20" dy="1.37em">     ///   .........───────c──cc:::.../</tspan>
-    <tspan x="20" dy="1.37em">   //       ........::::c:cccccc::... \\</tspan>
-    <tspan x="20" dy="1.37em"> //              ......::..:......      . / ...|</tspan>
-    <tspan x="20" dy="1.37em">|                   ........     //|      .....|</tspan>
-    <tspan x="20" dy="1.37em">|                                .:|           |</tspan>
-    <tspan x="20" dy="1.37em">                                ..:|      .    |</tspan>
+    <tspan x="20" y="77">          //───.:──────────::─\\\\</tspan>
+    <tspan x="20" y="99">        //      ─/─────\\─\─\...\:\\\</tspan>
+    <tspan x="20" y="121">       /              //─\\.  ─.  ..\\</tspan>
+    <tspan x="20" y="143">     //              //             .|.</tspan>
+    <tspan x="20" y="165">     |            ..─────────────\\  .\\</tspan>
+    <tspan x="20" y="187">     \\\     ...::cccoPPOOOOOO?????\\.\\\</tspan>
+    <tspan x="20" y="209">      ||   .::::cccoooPPOOOOOOOOO???@\\.c|</tspan>
+    <tspan x="20" y="231">          .:cc::coooPPPPOOOOOOO??OOO??\\c|</tspan>
+    <tspan x="20" y="253">         ..:ccccooooPPP───P────????OPOPoo|</tspan>
+    <tspan x="20" y="275">      | ..::/─────────cccc/────────\\PPoo|</tspan>
+    <tspan x="20" y="297">      |..:/.....   ...:::::...  ....\\PP||</tspan>
+    <tspan x="20" y="319">      |.......───   .../o\:.. /───\\..\P||</tspan>
+    <tspan x="20" y="341">      |...../   ─    /:oOO\..  ─ ──────|||</tspan>
+    <tspan x="20" y="363">     /..::──────────/:cP?\Po\─────────o|Oc─:</tspan>
+    <tspan x="20" y="385">    || .:::cco─ccccc:cco──O\PooPPPOOOOPP|c\|</tspan>
+    <tspan x="20" y="407">    |....::cccocccc:/::::c─\Pc:cccoooPPo|:\o|</tspan>
+    <tspan x="20" y="429">    ||. ...::::::::......//.:c:..::::ccc|/PP</tspan>
+    <tspan x="20" y="451">    |/.|........::::─────//───\:....:::c|─\P</tspan>
+    <tspan x="20" y="473">     \─/ .......──────......─────..::.:c.──.</tspan>
+    <tspan x="20" y="495">        |.....:...─...──────::::::::..:|</tspan>
+    <tspan x="20" y="517">        /...................:::::::...:| \\ ─</tspan>
+    <tspan x="20" y="539">     ///   .........───────c──cc:::.../</tspan>
+    <tspan x="20" y="561">   //       ........::::c:cccccc::... \\</tspan>
+    <tspan x="20" y="583"> //              ......::..:......      . / ...|</tspan>
+    <tspan x="20" y="605">|                   ........     //|      .....|</tspan>
+    <tspan x="20" y="627">|                                .:|           |</tspan>
+    <tspan x="20" y="649">                                ..:|      .    |</tspan>
 </text>
 <text  x="40%" y="55" fill="#c9d1d9">
-<tspan x="40%" y="55"     > __  __                   ____  ___               _   _   _ </tspan>
-<tspan x="40%" dy="1.37em">|  \/  |__ _ _ _ __ ___  / __ \| _ ) ___ _ _  ___| |_| |_(_)</tspan>
-<tspan x="40%" dy="1.37em">| |\/| / _` | '_/ _/ _ \/ / _` | _ \/ _ \ ' \/ -_)  _|  _| |</tspan>
-<tspan x="40%" dy="1.37em">|_|  |_\__,_|_| \__\___/\ \__,_|___/\___/_||_\___|\__|\__|_|</tspan>
-<tspan x="40%" dy="1.37em">                         \____/                             </tspan>
-<tspan x="40%" dy="1.37em">                                                            </tspan>
-<tspan x="40%" dy="1.37em">         ───────────────────────────────────────────────────</tspan>
-<tspan x="40%" dy="1.37em">         OS:                          EndevourOS, Android 16</tspan>
-<tspan x="40%" dy="1.37em">         DE:                      Hyprland (Caelestia shell)</tspan>
-<tspan x="40%" dy="1.37em">         Host:                                         Italy</tspan>
-<tspan x="40%" dy="1.37em">         Uptime:                                    22 years</tspan>
-<tspan x="40%" dy="1.37em">         IDE:                         VScodium (with Neovim)</tspan>
-<tspan x="40%" dy="1.37em">                                                            </tspan>
-<tspan x="40%" dy="1.37em">         Languages:                    English (C1), Italian</tspan>
-<tspan x="40%" dy="1.37em">         Programming Languages:          C, Java, Javascript</tspan>
-<tspan x="40%" dy="1.37em">         Markup Languages:             HTML, Markdown, LaTeX</tspan>
-<tspan x="40%" dy="1.37em">                                                            </tspan>
-<tspan x="40%" dy="1.37em">         Contacts ──────────────────────────────────────────</tspan>
-<tspan x="40%" dy="1.37em">         Email:                        bonetti.mrc@gmail.com</tspan>
-<tspan x="40%" dy="1.37em">         LinkedIn:                                bonettimrc</tspan>
-<tspan x="40%" dy="1.37em">         Discord:                                bonetti.mrc</tspan>
-<tspan x="40%" dy="1.37em">         Instagram:                              bonetti.mrc</tspan>
-<tspan x="40%" dy="1.37em">         Signal:                              bonettimrc.271</tspan>
-<tspan x="40%" dy="1.37em">                                                            </tspan>
-<tspan x="40%" dy="1.37em">         Education ─────────────────────────────────────────</tspan>
-<tspan x="40%" dy="1.37em">         Degree: B.Sc. SE (Candidate), University of Ferrara</tspan>
-<tspan x="40%" dy="1.37em">         Diploma:          CS, IIS N.Copernico-A.Carpeggiani</tspan>
+<tspan x="40%" y="77" > __  __                   ____  ___               _   _   _ </tspan>
+<tspan x="40%" y="99" >|  \/  |__ _ _ _ __ ___  / __ \| _ ) ___ _ _  ___| |_| |_(_)</tspan>
+<tspan x="40%" y="121">| |\/| / _` | '_/ _/ _ \/ / _` | _ \/ _ \ ' \/ -_)  _|  _| |</tspan>
+<tspan x="40%" y="143">|_|  |_\__,_|_| \__\___/\ \__,_|___/\___/_||_\___|\__|\__|_|</tspan>
+<tspan x="40%" y="165">                         \____/                             </tspan>
+<tspan x="40%" y="187">                                                            </tspan>
+<tspan x="40%" y="209">         ───────────────────────────────────────────────────</tspan>
+<tspan x="40%" y="231">         OS:                          EndevourOS, Android 16</tspan>
+<tspan x="40%" y="253">         DE:                      Hyprland (Caelestia shell)</tspan>
+<tspan x="40%" y="275">         Host:                                         Italy</tspan>
+<tspan x="40%" y="297">         Uptime:                                    22 years</tspan>
+<tspan x="40%" y="319">         IDE:                         VScodium (with Neovim)</tspan>
+<tspan x="40%" y="341">                                                            </tspan>
+<tspan x="40%" y="363">         Languages:                    English (C1), Italian</tspan>
+<tspan x="40%" y="385">         Programming Languages:          C, Java, Javascript</tspan>
+<tspan x="40%" y="407">         Markup Languages:             HTML, Markdown, LaTeX</tspan>
+<tspan x="40%" y="429">                                                            </tspan>
+<tspan x="40%" y="451">         Contacts ──────────────────────────────────────────</tspan>
+<tspan x="40%" y="473">         Email:                        bonetti.mrc@gmail.com</tspan>
+<tspan x="40%" y="495">         LinkedIn:                                bonettimrc</tspan>
+<tspan x="40%" y="517">         Discord:                                bonetti.mrc</tspan>
+<tspan x="40%" y="539">         Instagram:                              bonetti.mrc</tspan>
+<tspan x="40%" y="561">         Signal:                              bonettimrc.271</tspan>
+<tspan x="40%" y="583">                                                            </tspan>
+<tspan x="40%" y="605">         Education ─────────────────────────────────────────</tspan>
+<tspan x="40%" y="627">         Degree: B.Sc. SE (Candidate), University of Ferrara</tspan>
+<tspan x="40%" y="649">         Diploma:          CS, IIS N.Copernico-A.Carpeggiani</tspan>
 </text>
 </svg>
